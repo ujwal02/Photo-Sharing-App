@@ -28,7 +28,7 @@ libclang==15.0.6.1
 llvmlite==0.39.1
 Markdown==3.4.1
 MarkupSafe==2.1.2
-matplotlib==3.6.3
+matplotlib
 mediapipe==0.9.0.1
 numba==0.56.4
 numpy==1.23.5
