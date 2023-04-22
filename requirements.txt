@@ -41,7 +41,7 @@ opencv-contrib-python==4.7.0.68
 opencv-python==4.7.0.68
 opt-einsum==3.3.0
 packaging==23.0
-pandas==1.5.3
+pandas
 Pillow==9.4.0
 protobuf==3.19.6
 pyasn1==0.4.8
